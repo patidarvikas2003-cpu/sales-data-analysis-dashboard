@@ -1,0 +1,501 @@
+Order_ID,Order_Date,City,Category,Product,Quantity,Unit_Price,Discount,Gross_Sales,Net_Sales
+ORD0001,2025-05-02,Jabalpur,Clothing,Shoes,5,4172,0.1,20860,18774.0
+ORD0002,2025-11-05,Bhopal,Clothing,Jacket,3,3319,0.05,9957,9459.15
+ORD0003,2025-01-22,Gwalior,Home & Kitchen,Water Bottle,2,4855,0.05,9710,9224.5
+ORD0004,2025-09-28,Mandsaur,Home & Kitchen,Mixer,1,3047,0.15,3047,2589.95
+ORD0005,2025-11-03,Gwalior,Furniture,Bookshelf,3,2467,0.0,7401,7401.0
+ORD0006,2025-09-22,Bhopal,Electronics,Headphones,2,12127,0.05,24254,23041.3
+ORD0007,2025-02-04,Mandsaur,Electronics,Smartphone,4,56887,0.15,227548,193415.8
+ORD0008,2025-04-16,Ujjain,Electronics,Monitor,2,5443,0.05,10886,10341.7
+ORD0009,2025-09-27,Mandsaur,Furniture,Office Chair,2,6875,0.05,13750,13062.5
+ORD0010,2025-10-07,Bhopal,Clothing,Shoes,1,737,0.0,737,737.0
+ORD0011,2025-12-11,Indore,Electronics,Monitor,4,10071,0.0,40284,40284.0
+ORD0012,2025-10-16,Jabalpur,Home & Kitchen,Mixer,4,6094,0.1,24376,21938.4
+ORD0013,2025-02-02,Mandsaur,Electronics,Smartphone,2,40452,0.15,80904,68768.4
+ORD0014,2025-04-11,Mandsaur,Home & Kitchen,Mixer,3,5356,0.1,16068,14461.2
+ORD0015,2025-07-26,Bhopal,Clothing,T-Shirt,5,4893,0.1,24465,22018.5
+ORD0016,2025-02-21,Gwalior,Furniture,Sofa,5,17134,0.0,85670,85670.0
+ORD0017,2025-02-05,Gwalior,Home & Kitchen,Water Bottle,5,3542,0.0,17710,17710.0
+ORD0018,2025-03-03,Indore,Home & Kitchen,Bedsheet,3,3029,0.0,9087,9087.0
+ORD0019,2025-11-27,Bhopal,Electronics,Smartphone,4,31223,0.05,124892,118647.4
+ORD0020,2025-04-26,Gwalior,Clothing,Shoes,1,1706,0.0,1706,1706.0
+ORD0021,2025-06-01,Jabalpur,Electronics,Headphones,3,30820,0.15,92460,78591.0
+ORD0022,2025-02-21,Ujjain,Furniture,Sofa,1,22816,0.05,22816,21675.2
+ORD0023,2025-03-22,Jabalpur,Furniture,Bookshelf,2,24864,0.15,49728,42268.8
+ORD0024,2025-05-06,Bhopal,Electronics,Smartphone,2,48823,0.0,97646,97646.0
+ORD0025,2025-05-03,Indore,Electronics,Monitor,2,40059,0.15,80118,68100.3
+ORD0026,2025-08-28,Indore,Clothing,Jeans,5,597,0.1,2985,2686.5
+ORD0027,2025-12-12,Jabalpur,Electronics,Monitor,3,45857,0.15,137571,116935.35
+ORD0028,2025-05-08,Bhopal,Clothing,Jacket,4,2243,0.0,8972,8972.0
+ORD0029,2025-09-20,Ujjain,Home & Kitchen,Mixer,3,3669,0.1,11007,9906.3
+ORD0030,2025-05-20,Gwalior,Home & Kitchen,Cookware Set,1,5723,0.05,5723,5436.85
+ORD0031,2025-07-27,Jabalpur,Electronics,Monitor,3,8658,0.15,25974,22077.9
+ORD0032,2025-04-14,Ujjain,Home & Kitchen,Water Bottle,1,5839,0.05,5839,5547.05
+ORD0033,2025-12-04,Bhopal,Furniture,Bookshelf,1,3400,0.05,3400,3230.0
+ORD0034,2025-05-15,Jabalpur,Furniture,Bookshelf,5,6899,0.15,34495,29320.75
+ORD0035,2025-08-26,Mandsaur,Electronics,Monitor,1,6055,0.05,6055,5752.25
+ORD0036,2025-10-04,Mandsaur,Furniture,Table,5,11877,0.05,59385,56415.75
+ORD0037,2025-02-04,Indore,Electronics,Monitor,1,30624,0.15,30624,26030.4
+ORD0038,2025-04-09,Ujjain,Home & Kitchen,Mixer,4,3744,0.05,14976,14227.2
+ORD0039,2025-07-07,Indore,Electronics,Laptop,5,32716,0.1,163580,147222.0
+ORD0040,2025-05-08,Bhopal,Home & Kitchen,Bedsheet,5,3627,0.1,18135,16321.5
+ORD0041,2025-10-15,Mandsaur,Electronics,Smartphone,2,39710,0.05,79420,75449.0
+ORD0042,2025-10-26,Mandsaur,Clothing,Jeans,3,4457,0.15,13371,11365.35
+ORD0043,2025-01-13,Ujjain,Home & Kitchen,Bedsheet,5,6286,0.05,31430,29858.5
+ORD0044,2025-05-22,Ujjain,Furniture,Bookshelf,1,5980,0.15,5980,5083.0
+ORD0045,2025-02-20,Indore,Clothing,Jacket,4,3174,0.05,12696,12061.2
+ORD0046,2025-09-28,Mandsaur,Furniture,Bookshelf,5,24041,0.05,120205,114194.75
+ORD0047,2025-04-18,Gwalior,Clothing,Shoes,5,3524,0.15,17620,14977.0
+ORD0048,2025-05-04,Bhopal,Clothing,Shoes,5,4542,0.05,22710,21574.5
+ORD0049,2025-12-12,Gwalior,Furniture,Bookshelf,1,18414,0.1,18414,16572.6
+ORD0050,2025-01-01,Bhopal,Furniture,Office Chair,1,10404,0.05,10404,9883.8
+ORD0051,2025-07-11,Gwalior,Home & Kitchen,Cookware Set,1,5608,0.1,5608,5047.2
+ORD0052,2025-03-27,Indore,Furniture,Office Chair,3,21833,0.0,65499,65499.0
+ORD0053,2025-07-23,Bhopal,Electronics,Smartphone,4,55840,0.05,223360,212192.0
+ORD0054,2025-09-03,Gwalior,Furniture,Sofa,5,5652,0.05,28260,26847.0
+ORD0055,2025-09-14,Gwalior,Home & Kitchen,Cookware Set,4,2789,0.15,11156,9482.6
+ORD0056,2025-12-06,Ujjain,Electronics,Monitor,2,30668,0.1,61336,55202.4
+ORD0057,2025-09-25,Jabalpur,Furniture,Bookshelf,4,5200,0.0,20800,20800.0
+ORD0058,2025-10-29,Bhopal,Electronics,Laptop,2,18950,0.1,37900,34110.0
+ORD0059,2025-04-25,Indore,Electronics,Headphones,2,36350,0.05,72700,69065.0
+ORD0060,2025-08-05,Gwalior,Clothing,Shoes,2,1916,0.0,3832,3832.0
+ORD0061,2025-08-15,Indore,Electronics,Laptop,4,45925,0.15,183700,156145.0
+ORD0062,2025-07-09,Gwalior,Clothing,Shoes,4,2543,0.1,10172,9154.8
+ORD0063,2025-09-30,Indore,Home & Kitchen,Mixer,5,5268,0.05,26340,25023.0
+ORD0064,2025-08-21,Jabalpur,Furniture,Sofa,1,22076,0.15,22076,18764.6
+ORD0065,2025-03-10,Jabalpur,Home & Kitchen,Mixer,4,5786,0.15,23144,19672.4
+ORD0066,2025-02-26,Gwalior,Home & Kitchen,Mixer,4,3522,0.15,14088,11974.8
+ORD0067,2025-06-12,Gwalior,Electronics,Smartphone,2,12674,0.0,25348,25348.0
+ORD0068,2025-09-10,Mandsaur,Clothing,Jacket,2,1353,0.0,2706,2706.0
+ORD0069,2025-01-05,Gwalior,Clothing,Jeans,5,3393,0.05,16965,16116.75
+ORD0070,2025-05-25,Indore,Electronics,Smartphone,3,29795,0.05,89385,84915.75
+ORD0071,2025-07-01,Jabalpur,Electronics,Monitor,4,37409,0.15,149636,127190.6
+ORD0072,2025-08-30,Ujjain,Furniture,Table,3,16685,0.0,50055,50055.0
+ORD0073,2025-01-01,Jabalpur,Furniture,Table,4,14316,0.1,57264,51537.6
+ORD0074,2025-04-27,Mandsaur,Electronics,Monitor,1,35482,0.0,35482,35482.0
+ORD0075,2025-07-22,Ujjain,Furniture,Sofa,5,3052,0.0,15260,15260.0
+ORD0076,2025-11-01,Mandsaur,Electronics,Monitor,3,31854,0.0,95562,95562.0
+ORD0077,2025-01-12,Bhopal,Clothing,Jacket,1,3730,0.1,3730,3357.0
+ORD0078,2025-12-14,Ujjain,Home & Kitchen,Water Bottle,4,5427,0.05,21708,20622.6
+ORD0079,2025-08-16,Jabalpur,Furniture,Sofa,2,1739,0.0,3478,3478.0
+ORD0080,2025-02-15,Jabalpur,Furniture,Bookshelf,1,14416,0.15,14416,12253.6
+ORD0081,2025-01-10,Mandsaur,Electronics,Smartphone,2,57678,0.05,115356,109588.2
+ORD0082,2025-05-26,Indore,Furniture,Bookshelf,5,2215,0.0,11075,11075.0
+ORD0083,2025-04-09,Indore,Clothing,T-Shirt,2,4400,0.0,8800,8800.0
+ORD0084,2025-07-21,Bhopal,Electronics,Monitor,4,19884,0.0,79536,79536.0
+ORD0085,2025-07-24,Ujjain,Clothing,T-Shirt,5,2448,0.0,12240,12240.0
+ORD0086,2025-03-13,Bhopal,Furniture,Office Chair,1,11215,0.1,11215,10093.5
+ORD0087,2025-08-10,Jabalpur,Furniture,Table,3,5563,0.15,16689,14185.65
+ORD0088,2025-07-11,Ujjain,Electronics,Laptop,5,41264,0.1,206320,185688.0
+ORD0089,2025-11-04,Indore,Furniture,Table,2,9217,0.1,18434,16590.6
+ORD0090,2025-10-12,Ujjain,Furniture,Office Chair,4,6054,0.0,24216,24216.0
+ORD0091,2025-03-10,Bhopal,Furniture,Sofa,1,20416,0.15,20416,17353.6
+ORD0092,2025-04-21,Indore,Furniture,Office Chair,2,7469,0.15,14938,12697.3
+ORD0093,2025-07-03,Indore,Clothing,Jacket,3,1299,0.15,3897,3312.45
+ORD0094,2025-05-02,Jabalpur,Clothing,Shoes,3,1071,0.0,3213,3213.0
+ORD0095,2025-11-22,Indore,Clothing,T-Shirt,5,4300,0.0,21500,21500.0
+ORD0096,2025-10-28,Jabalpur,Electronics,Laptop,4,20277,0.05,81108,77052.6
+ORD0097,2025-12-16,Jabalpur,Electronics,Smartphone,1,24074,0.15,24074,20462.9
+ORD0098,2025-09-10,Ujjain,Clothing,Shoes,5,2455,0.1,12275,11047.5
+ORD0099,2025-12-31,Bhopal,Clothing,Jacket,2,2525,0.05,5050,4797.5
+ORD0100,2025-12-29,Ujjain,Furniture,Bookshelf,3,6322,0.05,18966,18017.7
+ORD0101,2025-04-29,Gwalior,Electronics,Smartphone,2,24833,0.15,49666,42216.1
+ORD0102,2025-01-13,Ujjain,Home & Kitchen,Cookware Set,1,4932,0.0,4932,4932.0
+ORD0103,2025-08-16,Mandsaur,Electronics,Monitor,2,9758,0.1,19516,17564.4
+ORD0104,2025-06-29,Bhopal,Furniture,Bookshelf,1,7938,0.05,7938,7541.1
+ORD0105,2025-10-16,Gwalior,Home & Kitchen,Cookware Set,3,6385,0.0,19155,19155.0
+ORD0106,2025-06-01,Indore,Furniture,Office Chair,4,24570,0.1,98280,88452.0
+ORD0107,2025-08-11,Mandsaur,Clothing,Jacket,3,4724,0.15,14172,12046.2
+ORD0108,2025-04-04,Mandsaur,Furniture,Sofa,4,23550,0.0,94200,94200.0
+ORD0109,2025-06-22,Ujjain,Clothing,Jeans,1,3162,0.05,3162,3003.9
+ORD0110,2025-01-01,Bhopal,Electronics,Smartphone,2,43601,0.1,87202,78481.8
+ORD0111,2025-06-27,Bhopal,Furniture,Sofa,5,21818,0.0,109090,109090.0
+ORD0112,2025-03-25,Indore,Electronics,Headphones,2,3719,0.05,7438,7066.1
+ORD0113,2025-02-07,Jabalpur,Clothing,T-Shirt,1,2394,0.15,2394,2034.9
+ORD0114,2025-05-17,Bhopal,Furniture,Bookshelf,1,13419,0.05,13419,12748.05
+ORD0115,2025-11-16,Gwalior,Home & Kitchen,Bedsheet,3,3265,0.15,9795,8325.75
+ORD0116,2025-01-05,Jabalpur,Home & Kitchen,Bedsheet,1,5120,0.0,5120,5120.0
+ORD0117,2025-10-23,Mandsaur,Clothing,Jeans,2,1465,0.05,2930,2783.5
+ORD0118,2025-05-25,Indore,Home & Kitchen,Bedsheet,5,1292,0.0,6460,6460.0
+ORD0119,2025-07-17,Mandsaur,Clothing,Jacket,2,2551,0.1,5102,4591.8
+ORD0120,2025-06-06,Mandsaur,Clothing,Jacket,3,2435,0.1,7305,6574.5
+ORD0121,2025-03-27,Bhopal,Electronics,Laptop,5,33654,0.15,168270,143029.5
+ORD0122,2025-10-30,Ujjain,Furniture,Office Chair,3,12304,0.1,36912,33220.8
+ORD0123,2025-11-20,Ujjain,Electronics,Monitor,4,42131,0.1,168524,151671.6
+ORD0124,2025-10-10,Gwalior,Electronics,Smartphone,3,17978,0.1,53934,48540.6
+ORD0125,2025-10-30,Bhopal,Home & Kitchen,Bedsheet,2,5107,0.1,10214,9192.6
+ORD0126,2025-04-21,Ujjain,Furniture,Bookshelf,4,11580,0.0,46320,46320.0
+ORD0127,2025-05-07,Bhopal,Clothing,Shoes,4,3335,0.15,13340,11339.0
+ORD0128,2025-10-24,Mandsaur,Electronics,Monitor,2,56676,0.15,113352,96349.2
+ORD0129,2025-07-01,Indore,Clothing,Jacket,1,3876,0.05,3876,3682.2
+ORD0130,2025-07-21,Ujjain,Electronics,Headphones,3,55683,0.0,167049,167049.0
+ORD0131,2025-03-31,Jabalpur,Electronics,Laptop,2,14724,0.0,29448,29448.0
+ORD0132,2025-12-30,Jabalpur,Furniture,Table,2,24074,0.1,48148,43333.2
+ORD0133,2025-06-26,Gwalior,Clothing,Jeans,1,3972,0.0,3972,3972.0
+ORD0134,2025-03-25,Indore,Clothing,Jacket,2,3520,0.0,7040,7040.0
+ORD0135,2025-05-21,Mandsaur,Electronics,Monitor,4,23066,0.15,92264,78424.4
+ORD0136,2025-10-13,Jabalpur,Clothing,Jacket,3,3117,0.0,9351,9351.0
+ORD0137,2025-11-15,Ujjain,Furniture,Office Chair,3,7845,0.05,23535,22358.25
+ORD0138,2025-03-28,Ujjain,Electronics,Monitor,5,13842,0.05,69210,65749.5
+ORD0139,2025-09-12,Gwalior,Home & Kitchen,Cookware Set,5,3106,0.1,15530,13977.0
+ORD0140,2025-10-18,Mandsaur,Home & Kitchen,Cookware Set,1,3354,0.15,3354,2850.9
+ORD0141,2025-08-11,Bhopal,Home & Kitchen,Water Bottle,3,4577,0.0,13731,13731.0
+ORD0142,2025-02-05,Gwalior,Clothing,Jeans,1,4095,0.1,4095,3685.5
+ORD0143,2025-07-14,Ujjain,Home & Kitchen,Cookware Set,2,5141,0.1,10282,9253.8
+ORD0144,2025-10-07,Indore,Home & Kitchen,Mixer,5,3201,0.15,16005,13604.25
+ORD0145,2025-04-25,Indore,Furniture,Table,3,17286,0.0,51858,51858.0
+ORD0146,2025-08-23,Mandsaur,Furniture,Office Chair,2,2504,0.05,5008,4757.6
+ORD0147,2025-02-11,Ujjain,Home & Kitchen,Cookware Set,2,2475,0.0,4950,4950.0
+ORD0148,2025-01-27,Indore,Electronics,Smartphone,2,41452,0.0,82904,82904.0
+ORD0149,2025-07-09,Bhopal,Clothing,Jeans,3,854,0.0,2562,2562.0
+ORD0150,2025-06-30,Ujjain,Furniture,Sofa,2,7141,0.1,14282,12853.8
+ORD0151,2025-10-22,Jabalpur,Clothing,Jeans,5,2458,0.1,12290,11061.0
+ORD0152,2025-08-15,Ujjain,Furniture,Table,5,22992,0.15,114960,97716.0
+ORD0153,2025-03-14,Indore,Clothing,T-Shirt,3,881,0.05,2643,2510.85
+ORD0154,2025-01-25,Jabalpur,Home & Kitchen,Mixer,1,1939,0.05,1939,1842.05
+ORD0155,2025-12-20,Ujjain,Clothing,Jeans,5,1858,0.05,9290,8825.5
+ORD0156,2025-02-26,Indore,Clothing,T-Shirt,4,3404,0.05,13616,12935.2
+ORD0157,2025-07-17,Indore,Clothing,Shoes,3,3108,0.1,9324,8391.6
+ORD0158,2025-10-15,Bhopal,Furniture,Office Chair,4,21577,0.1,86308,77677.2
+ORD0159,2025-09-27,Gwalior,Home & Kitchen,Bedsheet,1,4645,0.1,4645,4180.5
+ORD0160,2025-03-23,Mandsaur,Clothing,T-Shirt,3,1921,0.1,5763,5186.7
+ORD0161,2025-01-14,Jabalpur,Home & Kitchen,Bedsheet,3,914,0.0,2742,2742.0
+ORD0162,2025-12-30,Indore,Home & Kitchen,Water Bottle,5,4578,0.1,22890,20601.0
+ORD0163,2025-04-18,Mandsaur,Home & Kitchen,Mixer,1,792,0.05,792,752.4
+ORD0164,2025-09-26,Gwalior,Furniture,Bookshelf,3,1745,0.1,5235,4711.5
+ORD0165,2025-11-14,Gwalior,Furniture,Sofa,3,8406,0.05,25218,23957.1
+ORD0166,2025-03-06,Mandsaur,Home & Kitchen,Mixer,4,3730,0.15,14920,12682.0
+ORD0167,2025-06-02,Indore,Electronics,Headphones,5,35433,0.0,177165,177165.0
+ORD0168,2025-10-20,Gwalior,Electronics,Smartphone,1,5994,0.05,5994,5694.3
+ORD0169,2025-01-11,Mandsaur,Electronics,Headphones,4,39073,0.15,156292,132848.2
+ORD0170,2025-11-26,Jabalpur,Electronics,Smartphone,1,25762,0.05,25762,24473.9
+ORD0171,2025-02-16,Indore,Furniture,Office Chair,2,11945,0.05,23890,22695.5
+ORD0172,2025-03-03,Indore,Electronics,Headphones,4,19797,0.05,79188,75228.6
+ORD0173,2025-11-25,Ujjain,Home & Kitchen,Bedsheet,3,2330,0.0,6990,6990.0
+ORD0174,2025-05-17,Jabalpur,Furniture,Office Chair,2,19224,0.0,38448,38448.0
+ORD0175,2025-08-14,Ujjain,Electronics,Smartphone,4,30341,0.0,121364,121364.0
+ORD0176,2025-11-12,Gwalior,Clothing,Jeans,3,1313,0.0,3939,3939.0
+ORD0177,2025-11-14,Gwalior,Home & Kitchen,Mixer,5,1624,0.15,8120,6902.0
+ORD0178,2025-10-16,Mandsaur,Clothing,Jeans,3,4330,0.0,12990,12990.0
+ORD0179,2025-06-30,Bhopal,Home & Kitchen,Bedsheet,4,2904,0.0,11616,11616.0
+ORD0180,2025-01-31,Bhopal,Home & Kitchen,Bedsheet,3,1125,0.0,3375,3375.0
+ORD0181,2025-12-22,Bhopal,Furniture,Sofa,3,4941,0.05,14823,14081.85
+ORD0182,2025-02-15,Jabalpur,Furniture,Office Chair,5,1494,0.0,7470,7470.0
+ORD0183,2025-11-22,Jabalpur,Electronics,Laptop,1,33466,0.1,33466,30119.4
+ORD0184,2025-12-01,Mandsaur,Furniture,Bookshelf,2,10639,0.15,21278,18086.3
+ORD0185,2025-08-07,Indore,Electronics,Laptop,4,8559,0.15,34236,29100.6
+ORD0186,2025-04-30,Jabalpur,Home & Kitchen,Cookware Set,1,321,0.05,321,304.95
+ORD0187,2025-01-07,Gwalior,Furniture,Table,5,13139,0.15,65695,55840.75
+ORD0188,2025-10-12,Ujjain,Clothing,T-Shirt,3,3953,0.05,11859,11266.05
+ORD0189,2025-06-06,Jabalpur,Electronics,Headphones,5,33732,0.0,168660,168660.0
+ORD0190,2025-01-27,Jabalpur,Home & Kitchen,Water Bottle,2,3393,0.1,6786,6107.4
+ORD0191,2025-12-23,Jabalpur,Electronics,Smartphone,4,29587,0.15,118348,100595.8
+ORD0192,2025-06-11,Gwalior,Home & Kitchen,Cookware Set,3,1233,0.1,3699,3329.1
+ORD0193,2025-07-27,Jabalpur,Clothing,Shoes,1,2209,0.15,2209,1877.65
+ORD0194,2025-01-27,Mandsaur,Home & Kitchen,Water Bottle,1,819,0.1,819,737.1
+ORD0195,2025-02-15,Indore,Furniture,Sofa,3,7259,0.15,21777,18510.45
+ORD0196,2025-06-15,Indore,Furniture,Table,1,14747,0.0,14747,14747.0
+ORD0197,2025-07-24,Indore,Home & Kitchen,Bedsheet,5,694,0.15,3470,2949.5
+ORD0198,2025-02-01,Jabalpur,Home & Kitchen,Mixer,2,5002,0.05,10004,9503.8
+ORD0199,2025-08-02,Jabalpur,Electronics,Laptop,1,52695,0.1,52695,47425.5
+ORD0200,2025-04-02,Ujjain,Home & Kitchen,Mixer,1,5729,0.05,5729,5442.55
+ORD0201,2025-03-18,Ujjain,Electronics,Smartphone,2,58684,0.0,117368,117368.0
+ORD0202,2025-05-23,Bhopal,Furniture,Table,2,24598,0.05,49196,46736.2
+ORD0203,2025-01-09,Mandsaur,Furniture,Bookshelf,4,7290,0.1,29160,26244.0
+ORD0204,2025-11-14,Ujjain,Electronics,Headphones,1,26791,0.15,26791,22772.35
+ORD0205,2025-11-10,Mandsaur,Furniture,Bookshelf,3,1658,0.05,4974,4725.3
+ORD0206,2025-01-12,Ujjain,Furniture,Bookshelf,3,22488,0.05,67464,64090.8
+ORD0207,2025-08-09,Gwalior,Electronics,Laptop,5,19150,0.0,95750,95750.0
+ORD0208,2025-12-18,Indore,Clothing,Shoes,3,2389,0.0,7167,7167.0
+ORD0209,2025-07-26,Indore,Clothing,Jacket,4,4530,0.0,18120,18120.0
+ORD0210,2025-01-24,Ujjain,Clothing,Shoes,1,558,0.0,558,558.0
+ORD0211,2025-06-26,Jabalpur,Electronics,Monitor,4,27463,0.05,109852,104359.4
+ORD0212,2025-09-19,Bhopal,Home & Kitchen,Mixer,4,2925,0.1,11700,10530.0
+ORD0213,2025-01-21,Indore,Clothing,Jacket,2,4114,0.15,8228,6993.8
+ORD0214,2025-11-30,Bhopal,Clothing,Jeans,4,3769,0.05,15076,14322.2
+ORD0215,2025-04-21,Mandsaur,Clothing,T-Shirt,5,2765,0.15,13825,11751.25
+ORD0216,2025-12-11,Indore,Home & Kitchen,Bedsheet,1,5233,0.0,5233,5233.0
+ORD0217,2025-10-28,Jabalpur,Home & Kitchen,Cookware Set,3,4323,0.15,12969,11023.65
+ORD0218,2025-09-14,Gwalior,Furniture,Bookshelf,2,23481,0.0,46962,46962.0
+ORD0219,2025-10-11,Indore,Home & Kitchen,Water Bottle,3,875,0.05,2625,2493.75
+ORD0220,2025-06-05,Mandsaur,Clothing,T-Shirt,5,2055,0.15,10275,8733.75
+ORD0221,2025-10-20,Ujjain,Home & Kitchen,Bedsheet,5,1268,0.1,6340,5706.0
+ORD0222,2025-02-28,Gwalior,Furniture,Office Chair,1,2258,0.0,2258,2258.0
+ORD0223,2025-08-04,Jabalpur,Electronics,Laptop,3,35497,0.05,106491,101166.45
+ORD0224,2025-10-21,Ujjain,Clothing,Jeans,2,3649,0.15,7298,6203.3
+ORD0225,2025-01-08,Bhopal,Clothing,Shoes,5,3193,0.1,15965,14368.5
+ORD0226,2025-10-17,Indore,Electronics,Laptop,5,41787,0.1,208935,188041.5
+ORD0227,2025-08-20,Indore,Clothing,Jacket,2,4449,0.1,8898,8008.2
+ORD0228,2025-12-27,Bhopal,Home & Kitchen,Bedsheet,1,1627,0.0,1627,1627.0
+ORD0229,2025-06-18,Indore,Furniture,Sofa,2,18287,0.0,36574,36574.0
+ORD0230,2025-04-12,Mandsaur,Home & Kitchen,Mixer,1,1647,0.05,1647,1564.65
+ORD0231,2025-11-27,Indore,Home & Kitchen,Cookware Set,3,1150,0.0,3450,3450.0
+ORD0232,2025-05-23,Gwalior,Home & Kitchen,Cookware Set,1,4389,0.1,4389,3950.1
+ORD0233,2025-10-18,Ujjain,Clothing,Shoes,5,4800,0.0,24000,24000.0
+ORD0234,2025-09-22,Jabalpur,Furniture,Table,3,12407,0.05,37221,35359.95
+ORD0235,2025-10-31,Gwalior,Electronics,Smartphone,2,44961,0.05,89922,85425.9
+ORD0236,2025-10-29,Bhopal,Clothing,Shoes,4,1343,0.05,5372,5103.4
+ORD0237,2025-04-27,Ujjain,Home & Kitchen,Bedsheet,3,4731,0.1,14193,12773.7
+ORD0238,2025-05-21,Mandsaur,Clothing,T-Shirt,4,4254,0.0,17016,17016.0
+ORD0239,2025-01-27,Gwalior,Clothing,Jeans,5,772,0.05,3860,3667.0
+ORD0240,2025-03-18,Ujjain,Clothing,Shoes,3,2081,0.0,6243,6243.0
+ORD0241,2025-06-08,Indore,Furniture,Office Chair,3,16910,0.0,50730,50730.0
+ORD0242,2025-11-06,Indore,Furniture,Office Chair,2,22787,0.1,45574,41016.6
+ORD0243,2025-01-26,Indore,Home & Kitchen,Water Bottle,5,1543,0.0,7715,7715.0
+ORD0244,2025-02-18,Bhopal,Clothing,Jeans,2,3031,0.15,6062,5152.7
+ORD0245,2025-05-26,Jabalpur,Clothing,T-Shirt,4,4083,0.0,16332,16332.0
+ORD0246,2025-04-29,Gwalior,Home & Kitchen,Cookware Set,1,1549,0.0,1549,1549.0
+ORD0247,2025-03-19,Gwalior,Electronics,Smartphone,5,17514,0.0,87570,87570.0
+ORD0248,2025-02-11,Mandsaur,Electronics,Laptop,1,35037,0.1,35037,31533.3
+ORD0249,2025-01-19,Ujjain,Electronics,Headphones,1,33996,0.05,33996,32296.2
+ORD0250,2025-12-19,Ujjain,Furniture,Table,2,7964,0.0,15928,15928.0
+ORD0251,2025-09-26,Indore,Clothing,T-Shirt,1,2872,0.15,2872,2441.2
+ORD0252,2025-09-21,Mandsaur,Home & Kitchen,Cookware Set,4,4555,0.0,18220,18220.0
+ORD0253,2025-05-10,Ujjain,Home & Kitchen,Cookware Set,3,641,0.05,1923,1826.85
+ORD0254,2025-02-05,Gwalior,Furniture,Table,1,10886,0.15,10886,9253.1
+ORD0255,2025-05-01,Ujjain,Electronics,Laptop,1,30482,0.05,30482,28957.9
+ORD0256,2025-08-25,Ujjain,Electronics,Monitor,4,21603,0.05,86412,82091.4
+ORD0257,2025-03-25,Mandsaur,Clothing,Shoes,5,2768,0.0,13840,13840.0
+ORD0258,2025-05-22,Ujjain,Furniture,Table,1,12223,0.05,12223,11611.85
+ORD0259,2025-11-27,Jabalpur,Electronics,Headphones,2,20292,0.0,40584,40584.0
+ORD0260,2025-05-23,Mandsaur,Home & Kitchen,Cookware Set,2,1742,0.05,3484,3309.8
+ORD0261,2025-10-18,Mandsaur,Home & Kitchen,Mixer,4,3025,0.05,12100,11495.0
+ORD0262,2025-06-12,Bhopal,Home & Kitchen,Cookware Set,3,4794,0.0,14382,14382.0
+ORD0263,2025-10-08,Gwalior,Clothing,Jeans,3,4761,0.05,14283,13568.85
+ORD0264,2025-08-26,Gwalior,Furniture,Office Chair,4,7101,0.05,28404,26983.8
+ORD0265,2025-01-25,Ujjain,Home & Kitchen,Bedsheet,3,6072,0.0,18216,18216.0
+ORD0266,2025-01-31,Mandsaur,Electronics,Monitor,4,9467,0.0,37868,37868.0
+ORD0267,2025-02-12,Mandsaur,Home & Kitchen,Cookware Set,5,3019,0.0,15095,15095.0
+ORD0268,2025-09-24,Bhopal,Furniture,Sofa,3,8354,0.05,25062,23808.9
+ORD0269,2025-07-09,Mandsaur,Electronics,Headphones,1,39346,0.15,39346,33444.1
+ORD0270,2025-04-11,Ujjain,Clothing,Jacket,4,2038,0.0,8152,8152.0
+ORD0271,2025-03-04,Gwalior,Home & Kitchen,Mixer,4,3602,0.05,14408,13687.6
+ORD0272,2025-05-13,Mandsaur,Home & Kitchen,Bedsheet,5,6440,0.05,32200,30590.0
+ORD0273,2025-03-06,Gwalior,Clothing,Jeans,3,3108,0.1,9324,8391.6
+ORD0274,2025-06-09,Ujjain,Electronics,Smartphone,2,49096,0.0,98192,98192.0
+ORD0275,2025-04-27,Bhopal,Electronics,Headphones,1,6295,0.1,6295,5665.5
+ORD0276,2025-02-11,Gwalior,Furniture,Sofa,2,1793,0.0,3586,3586.0
+ORD0277,2025-05-09,Bhopal,Furniture,Office Chair,1,1216,0.0,1216,1216.0
+ORD0278,2025-08-20,Gwalior,Home & Kitchen,Water Bottle,5,4197,0.15,20985,17837.25
+ORD0279,2025-12-09,Gwalior,Home & Kitchen,Bedsheet,2,378,0.0,756,756.0
+ORD0280,2025-02-12,Indore,Clothing,T-Shirt,4,3671,0.1,14684,13215.6
+ORD0281,2025-08-20,Bhopal,Electronics,Headphones,3,36979,0.0,110937,110937.0
+ORD0282,2025-01-28,Jabalpur,Clothing,Jeans,4,4894,0.1,19576,17618.4
+ORD0283,2025-11-16,Bhopal,Clothing,Jeans,5,2437,0.15,12185,10357.25
+ORD0284,2025-11-25,Bhopal,Furniture,Bookshelf,4,18830,0.15,75320,64022.0
+ORD0285,2025-08-05,Bhopal,Clothing,Jeans,3,2013,0.0,6039,6039.0
+ORD0286,2025-09-15,Mandsaur,Clothing,Jeans,2,4147,0.1,8294,7464.6
+ORD0287,2025-07-02,Indore,Electronics,Laptop,4,31421,0.05,125684,119399.8
+ORD0288,2025-08-01,Ujjain,Electronics,Monitor,3,55593,0.15,166779,141762.15
+ORD0289,2025-02-08,Indore,Home & Kitchen,Bedsheet,1,5641,0.1,5641,5076.9
+ORD0290,2025-12-26,Mandsaur,Home & Kitchen,Mixer,2,6323,0.05,12646,12013.7
+ORD0291,2025-10-12,Gwalior,Clothing,Jacket,4,1768,0.15,7072,6011.2
+ORD0292,2025-03-29,Ujjain,Furniture,Table,5,22142,0.1,110710,99639.0
+ORD0293,2025-07-10,Mandsaur,Electronics,Smartphone,3,28544,0.1,85632,77068.8
+ORD0294,2025-05-16,Bhopal,Clothing,Jacket,5,1704,0.1,8520,7668.0
+ORD0295,2025-08-12,Bhopal,Furniture,Sofa,1,18098,0.15,18098,15383.3
+ORD0296,2025-08-07,Jabalpur,Furniture,Bookshelf,1,2628,0.1,2628,2365.2
+ORD0297,2025-02-23,Ujjain,Furniture,Office Chair,5,20563,0.05,102815,97674.25
+ORD0298,2025-08-11,Mandsaur,Electronics,Smartphone,1,21373,0.1,21373,19235.7
+ORD0299,2025-01-24,Mandsaur,Home & Kitchen,Bedsheet,5,5551,0.15,27755,23591.75
+ORD0300,2025-07-21,Mandsaur,Clothing,Jeans,5,2423,0.0,12115,12115.0
+ORD0301,2025-01-04,Gwalior,Furniture,Sofa,4,6236,0.1,24944,22449.6
+ORD0302,2025-01-24,Bhopal,Furniture,Bookshelf,5,24425,0.05,122125,116018.75
+ORD0303,2025-07-30,Mandsaur,Furniture,Table,3,12354,0.05,37062,35208.9
+ORD0304,2025-01-19,Gwalior,Home & Kitchen,Mixer,4,1167,0.15,4668,3967.8
+ORD0305,2025-09-08,Ujjain,Home & Kitchen,Cookware Set,1,1951,0.0,1951,1951.0
+ORD0306,2025-07-17,Ujjain,Clothing,Jacket,3,2236,0.0,6708,6708.0
+ORD0307,2025-12-25,Indore,Home & Kitchen,Water Bottle,3,2471,0.1,7413,6671.7
+ORD0308,2025-04-17,Indore,Furniture,Sofa,5,9529,0.0,47645,47645.0
+ORD0309,2025-02-04,Mandsaur,Furniture,Table,5,21504,0.0,107520,107520.0
+ORD0310,2025-03-15,Gwalior,Furniture,Bookshelf,5,23636,0.0,118180,118180.0
+ORD0311,2025-11-09,Ujjain,Home & Kitchen,Cookware Set,2,5036,0.15,10072,8561.2
+ORD0312,2025-02-05,Gwalior,Furniture,Office Chair,4,5483,0.0,21932,21932.0
+ORD0313,2025-08-08,Mandsaur,Furniture,Sofa,4,10757,0.1,43028,38725.2
+ORD0314,2025-10-28,Ujjain,Home & Kitchen,Cookware Set,2,5975,0.0,11950,11950.0
+ORD0315,2025-07-15,Bhopal,Home & Kitchen,Bedsheet,4,5860,0.0,23440,23440.0
+ORD0316,2025-07-18,Gwalior,Electronics,Headphones,2,51323,0.1,102646,92381.4
+ORD0317,2025-03-23,Gwalior,Furniture,Table,4,14383,0.0,57532,57532.0
+ORD0318,2025-06-10,Bhopal,Clothing,Jacket,2,770,0.0,1540,1540.0
+ORD0319,2025-06-01,Gwalior,Electronics,Monitor,2,16852,0.0,33704,33704.0
+ORD0320,2025-04-08,Mandsaur,Electronics,Smartphone,4,24981,0.0,99924,99924.0
+ORD0321,2025-04-22,Indore,Furniture,Table,2,16377,0.05,32754,31116.3
+ORD0322,2025-12-10,Mandsaur,Furniture,Table,2,13922,0.15,27844,23667.4
+ORD0323,2025-02-01,Gwalior,Home & Kitchen,Bedsheet,2,2154,0.0,4308,4308.0
+ORD0324,2025-08-02,Ujjain,Home & Kitchen,Cookware Set,4,6656,0.1,26624,23961.6
+ORD0325,2025-03-07,Indore,Home & Kitchen,Cookware Set,3,4167,0.05,12501,11875.95
+ORD0326,2025-09-19,Ujjain,Home & Kitchen,Cookware Set,3,1311,0.1,3933,3539.7
+ORD0327,2025-09-25,Bhopal,Clothing,T-Shirt,3,4802,0.15,14406,12245.1
+ORD0328,2025-03-13,Indore,Home & Kitchen,Water Bottle,4,784,0.0,3136,3136.0
+ORD0329,2025-09-20,Jabalpur,Clothing,Jacket,2,4963,0.15,9926,8437.1
+ORD0330,2025-08-08,Indore,Electronics,Headphones,3,15437,0.0,46311,46311.0
+ORD0331,2025-09-03,Jabalpur,Clothing,Shoes,5,4090,0.15,20450,17382.5
+ORD0332,2025-01-21,Mandsaur,Home & Kitchen,Mixer,4,2210,0.0,8840,8840.0
+ORD0333,2025-09-04,Jabalpur,Electronics,Smartphone,4,35191,0.1,140764,126687.6
+ORD0334,2025-05-13,Jabalpur,Electronics,Laptop,3,44860,0.05,134580,127851.0
+ORD0335,2025-07-30,Ujjain,Electronics,Monitor,5,50916,0.05,254580,241851.0
+ORD0336,2025-08-04,Bhopal,Home & Kitchen,Mixer,3,2804,0.0,8412,8412.0
+ORD0337,2025-09-05,Bhopal,Furniture,Bookshelf,4,10377,0.15,41508,35281.8
+ORD0338,2025-12-04,Bhopal,Furniture,Office Chair,5,11985,0.1,59925,53932.5
+ORD0339,2025-12-13,Jabalpur,Clothing,T-Shirt,1,2074,0.1,2074,1866.6
+ORD0340,2025-06-05,Mandsaur,Electronics,Monitor,5,23933,0.15,119665,101715.25
+ORD0341,2025-07-10,Jabalpur,Electronics,Monitor,4,56796,0.15,227184,193106.4
+ORD0342,2025-10-29,Ujjain,Home & Kitchen,Cookware Set,1,4000,0.0,4000,4000.0
+ORD0343,2025-11-29,Bhopal,Furniture,Sofa,4,22230,0.15,88920,75582.0
+ORD0344,2025-02-15,Mandsaur,Clothing,T-Shirt,3,1866,0.05,5598,5318.1
+ORD0345,2025-11-30,Jabalpur,Furniture,Sofa,5,16237,0.05,81185,77125.75
+ORD0346,2025-08-03,Mandsaur,Home & Kitchen,Mixer,1,4549,0.05,4549,4321.55
+ORD0347,2025-07-20,Ujjain,Home & Kitchen,Mixer,3,1749,0.1,5247,4722.3
+ORD0348,2025-04-30,Mandsaur,Home & Kitchen,Mixer,1,5182,0.1,5182,4663.8
+ORD0349,2025-06-10,Ujjain,Electronics,Laptop,4,33155,0.15,132620,112727.0
+ORD0350,2025-02-10,Ujjain,Electronics,Smartphone,3,30992,0.05,92976,88327.2
+ORD0351,2025-09-12,Gwalior,Clothing,Shoes,4,4408,0.1,17632,15868.8
+ORD0352,2025-09-12,Gwalior,Furniture,Office Chair,4,1978,0.0,7912,7912.0
+ORD0353,2025-11-20,Jabalpur,Electronics,Monitor,4,46400,0.0,185600,185600.0
+ORD0354,2025-03-17,Mandsaur,Electronics,Smartphone,1,47587,0.05,47587,45207.65
+ORD0355,2025-11-03,Mandsaur,Clothing,Jacket,1,805,0.0,805,805.0
+ORD0356,2025-09-17,Mandsaur,Home & Kitchen,Mixer,5,2695,0.15,13475,11453.75
+ORD0357,2025-12-13,Indore,Home & Kitchen,Mixer,3,2307,0.05,6921,6574.95
+ORD0358,2025-05-16,Jabalpur,Electronics,Monitor,1,29869,0.1,29869,26882.1
+ORD0359,2025-05-22,Jabalpur,Home & Kitchen,Cookware Set,1,3100,0.1,3100,2790.0
+ORD0360,2025-07-09,Jabalpur,Home & Kitchen,Mixer,4,1625,0.0,6500,6500.0
+ORD0361,2025-11-14,Bhopal,Home & Kitchen,Water Bottle,1,2268,0.15,2268,1927.8
+ORD0362,2025-02-28,Indore,Clothing,Jeans,1,1255,0.1,1255,1129.5
+ORD0363,2025-02-14,Indore,Clothing,T-Shirt,3,1756,0.05,5268,5004.6
+ORD0364,2025-04-19,Ujjain,Home & Kitchen,Water Bottle,3,3304,0.0,9912,9912.0
+ORD0365,2025-12-13,Mandsaur,Electronics,Monitor,1,56898,0.0,56898,56898.0
+ORD0366,2025-12-04,Bhopal,Clothing,Jeans,5,4160,0.15,20800,17680.0
+ORD0367,2025-03-25,Indore,Furniture,Sofa,1,18177,0.15,18177,15450.45
+ORD0368,2025-10-12,Indore,Electronics,Monitor,2,25806,0.1,51612,46450.8
+ORD0369,2025-07-20,Indore,Furniture,Table,3,10301,0.05,30903,29357.85
+ORD0370,2025-12-16,Bhopal,Clothing,Shoes,3,2028,0.1,6084,5475.6
+ORD0371,2025-12-23,Gwalior,Electronics,Laptop,4,53118,0.05,212472,201848.4
+ORD0372,2025-04-17,Bhopal,Furniture,Office Chair,1,19015,0.05,19015,18064.25
+ORD0373,2025-01-30,Ujjain,Home & Kitchen,Bedsheet,5,2321,0.05,11605,11024.75
+ORD0374,2025-01-23,Jabalpur,Home & Kitchen,Cookware Set,3,5460,0.1,16380,14742.0
+ORD0375,2025-06-16,Bhopal,Home & Kitchen,Water Bottle,2,5799,0.0,11598,11598.0
+ORD0376,2025-02-16,Ujjain,Home & Kitchen,Water Bottle,5,5228,0.0,26140,26140.0
+ORD0377,2025-05-06,Jabalpur,Clothing,T-Shirt,2,2411,0.1,4822,4339.8
+ORD0378,2025-07-23,Mandsaur,Electronics,Laptop,5,15203,0.15,76015,64612.75
+ORD0379,2025-03-08,Jabalpur,Electronics,Headphones,4,7244,0.15,28976,24629.6
+ORD0380,2025-08-22,Jabalpur,Electronics,Monitor,2,43638,0.1,87276,78548.4
+ORD0381,2025-05-02,Gwalior,Furniture,Table,3,18494,0.05,55482,52707.9
+ORD0382,2025-10-12,Gwalior,Electronics,Smartphone,4,9536,0.0,38144,38144.0
+ORD0383,2025-06-14,Indore,Clothing,Jacket,4,1701,0.0,6804,6804.0
+ORD0384,2025-02-11,Bhopal,Electronics,Laptop,2,10056,0.1,20112,18100.8
+ORD0385,2025-01-21,Ujjain,Home & Kitchen,Mixer,3,682,0.15,2046,1739.1
+ORD0386,2025-05-05,Jabalpur,Clothing,Jacket,4,2027,0.15,8108,6891.8
+ORD0387,2025-04-14,Mandsaur,Electronics,Headphones,2,28262,0.05,56524,53697.8
+ORD0388,2025-01-05,Indore,Electronics,Monitor,2,20718,0.15,41436,35220.6
+ORD0389,2025-09-24,Mandsaur,Electronics,Monitor,3,11738,0.05,35214,33453.3
+ORD0390,2025-07-03,Ujjain,Electronics,Headphones,4,11985,0.0,47940,47940.0
+ORD0391,2025-10-31,Ujjain,Electronics,Smartphone,2,50151,0.05,100302,95286.9
+ORD0392,2025-08-04,Jabalpur,Home & Kitchen,Water Bottle,2,3788,0.05,7576,7197.2
+ORD0393,2025-08-07,Bhopal,Clothing,Shoes,1,3936,0.0,3936,3936.0
+ORD0394,2025-11-25,Ujjain,Home & Kitchen,Bedsheet,4,3419,0.1,13676,12308.4
+ORD0395,2025-07-08,Bhopal,Electronics,Laptop,1,16572,0.1,16572,14914.8
+ORD0396,2025-10-25,Mandsaur,Home & Kitchen,Cookware Set,5,3937,0.05,19685,18700.75
+ORD0397,2025-02-26,Mandsaur,Electronics,Monitor,4,40605,0.05,162420,154299.0
+ORD0398,2025-11-23,Mandsaur,Clothing,Jacket,3,3241,0.15,9723,8264.55
+ORD0399,2025-02-06,Gwalior,Clothing,Jacket,1,1972,0.1,1972,1774.8
+ORD0400,2025-06-13,Jabalpur,Home & Kitchen,Water Bottle,5,3498,0.0,17490,17490.0
+ORD0401,2025-03-16,Jabalpur,Furniture,Bookshelf,1,22621,0.05,22621,21489.95
+ORD0402,2025-05-03,Mandsaur,Home & Kitchen,Bedsheet,4,3944,0.1,15776,14198.4
+ORD0403,2025-07-03,Ujjain,Home & Kitchen,Cookware Set,1,1797,0.0,1797,1797.0
+ORD0404,2025-02-24,Jabalpur,Furniture,Bookshelf,3,18822,0.05,56466,53642.7
+ORD0405,2025-02-22,Jabalpur,Furniture,Office Chair,5,3568,0.0,17840,17840.0
+ORD0406,2025-06-09,Bhopal,Electronics,Laptop,1,18066,0.15,18066,15356.1
+ORD0407,2025-01-22,Mandsaur,Furniture,Table,4,10403,0.1,41612,37450.8
+ORD0408,2025-10-17,Bhopal,Clothing,Shoes,5,1435,0.1,7175,6457.5
+ORD0409,2025-10-01,Mandsaur,Home & Kitchen,Cookware Set,3,2184,0.05,6552,6224.4
+ORD0410,2025-11-16,Gwalior,Furniture,Office Chair,2,23640,0.15,47280,40188.0
+ORD0411,2025-04-10,Bhopal,Home & Kitchen,Bedsheet,1,6342,0.05,6342,6024.9
+ORD0412,2025-06-28,Gwalior,Clothing,Jacket,5,597,0.15,2985,2537.25
+ORD0413,2025-06-24,Gwalior,Electronics,Smartphone,2,36216,0.15,72432,61567.2
+ORD0414,2025-10-08,Mandsaur,Electronics,Headphones,5,31296,0.15,156480,133008.0
+ORD0415,2025-04-11,Mandsaur,Electronics,Laptop,4,41390,0.0,165560,165560.0
+ORD0416,2025-05-26,Mandsaur,Home & Kitchen,Bedsheet,4,3674,0.15,14696,12491.6
+ORD0417,2025-08-17,Gwalior,Clothing,Shoes,1,4472,0.05,4472,4248.4
+ORD0418,2025-04-10,Gwalior,Home & Kitchen,Bedsheet,2,5878,0.05,11756,11168.2
+ORD0419,2025-10-19,Bhopal,Clothing,T-Shirt,5,2151,0.1,10755,9679.5
+ORD0420,2025-03-06,Ujjain,Clothing,Shoes,4,939,0.05,3756,3568.2
+ORD0421,2025-05-18,Gwalior,Electronics,Monitor,3,16062,0.05,48186,45776.7
+ORD0422,2025-12-03,Ujjain,Home & Kitchen,Bedsheet,5,2115,0.05,10575,10046.25
+ORD0423,2025-09-25,Mandsaur,Furniture,Table,3,9778,0.0,29334,29334.0
+ORD0424,2025-12-06,Ujjain,Home & Kitchen,Water Bottle,5,2577,0.0,12885,12885.0
+ORD0425,2025-06-30,Bhopal,Home & Kitchen,Bedsheet,1,6391,0.1,6391,5751.9
+ORD0426,2025-06-02,Indore,Clothing,Jacket,1,3862,0.15,3862,3282.7
+ORD0427,2025-05-15,Ujjain,Clothing,Jeans,4,1119,0.0,4476,4476.0
+ORD0428,2025-02-14,Mandsaur,Clothing,Jacket,1,4720,0.0,4720,4720.0
+ORD0429,2025-07-24,Ujjain,Clothing,Shoes,3,2604,0.05,7812,7421.4
+ORD0430,2025-11-08,Ujjain,Clothing,Shoes,2,792,0.0,1584,1584.0
+ORD0431,2025-07-18,Bhopal,Furniture,Bookshelf,4,17816,0.05,71264,67700.8
+ORD0432,2025-12-26,Ujjain,Electronics,Smartphone,1,47973,0.15,47973,40777.05
+ORD0433,2025-07-07,Indore,Clothing,Jacket,4,1472,0.15,5888,5004.8
+ORD0434,2025-01-05,Ujjain,Clothing,Jacket,1,3241,0.05,3241,3078.95
+ORD0435,2025-08-14,Gwalior,Home & Kitchen,Mixer,3,3293,0.05,9879,9385.05
+ORD0436,2025-03-19,Bhopal,Furniture,Office Chair,5,13037,0.05,65185,61925.75
+ORD0437,2025-08-23,Ujjain,Furniture,Office Chair,3,6837,0.15,20511,17434.35
+ORD0438,2025-03-11,Indore,Electronics,Laptop,3,28456,0.15,85368,72562.8
+ORD0439,2025-12-23,Indore,Home & Kitchen,Water Bottle,3,5751,0.1,17253,15527.7
+ORD0440,2025-05-05,Bhopal,Furniture,Bookshelf,2,1819,0.1,3638,3274.2
+ORD0441,2025-05-21,Bhopal,Electronics,Headphones,3,26320,0.15,78960,67116.0
+ORD0442,2025-08-30,Mandsaur,Home & Kitchen,Cookware Set,4,3967,0.15,15868,13487.8
+ORD0443,2025-06-05,Bhopal,Electronics,Smartphone,4,13924,0.15,55696,47341.6
+ORD0444,2025-04-01,Mandsaur,Clothing,Jacket,5,2769,0.15,13845,11768.25
+ORD0445,2025-01-10,Ujjain,Electronics,Headphones,1,38712,0.0,38712,38712.0
+ORD0446,2025-11-23,Indore,Electronics,Smartphone,3,57341,0.0,172023,172023.0
+ORD0447,2025-12-12,Mandsaur,Clothing,Shoes,4,4096,0.1,16384,14745.6
+ORD0448,2025-03-23,Ujjain,Electronics,Smartphone,5,42575,0.1,212875,191587.5
+ORD0449,2025-07-22,Indore,Electronics,Smartphone,1,16917,0.1,16917,15225.3
+ORD0450,2025-08-09,Ujjain,Electronics,Laptop,2,27292,0.0,54584,54584.0
+ORD0451,2025-10-09,Jabalpur,Electronics,Monitor,3,4371,0.15,13113,11146.05
+ORD0452,2025-10-06,Bhopal,Clothing,T-Shirt,4,4900,0.15,19600,16660.0
+ORD0453,2025-05-27,Mandsaur,Home & Kitchen,Bedsheet,2,6996,0.15,13992,11893.2
+ORD0454,2025-07-14,Jabalpur,Home & Kitchen,Cookware Set,1,2768,0.0,2768,2768.0
+ORD0455,2025-01-04,Jabalpur,Home & Kitchen,Bedsheet,5,2883,0.05,14415,13694.25
+ORD0456,2025-12-17,Mandsaur,Furniture,Office Chair,1,4452,0.0,4452,4452.0
+ORD0457,2025-11-09,Bhopal,Electronics,Smartphone,1,51476,0.0,51476,51476.0
+ORD0458,2025-10-30,Ujjain,Home & Kitchen,Bedsheet,5,6110,0.05,30550,29022.5
+ORD0459,2025-12-09,Bhopal,Home & Kitchen,Water Bottle,3,3540,0.0,10620,10620.0
+ORD0460,2025-08-16,Mandsaur,Furniture,Table,5,17789,0.1,88945,80050.5
+ORD0461,2025-10-14,Bhopal,Electronics,Smartphone,5,19875,0.1,99375,89437.5
+ORD0462,2025-01-10,Mandsaur,Furniture,Sofa,3,13741,0.1,41223,37100.7
+ORD0463,2025-12-23,Mandsaur,Electronics,Laptop,4,23563,0.0,94252,94252.0
+ORD0464,2025-03-29,Bhopal,Electronics,Laptop,1,4110,0.1,4110,3699.0
+ORD0465,2025-06-16,Gwalior,Home & Kitchen,Bedsheet,3,706,0.05,2118,2012.1
+ORD0466,2025-05-21,Mandsaur,Furniture,Office Chair,1,14250,0.0,14250,14250.0
+ORD0467,2025-06-24,Gwalior,Furniture,Sofa,4,2738,0.15,10952,9309.2
+ORD0468,2025-02-01,Ujjain,Clothing,Shoes,1,1897,0.15,1897,1612.45
+ORD0469,2025-11-10,Indore,Furniture,Office Chair,3,3107,0.05,9321,8854.95
+ORD0470,2025-06-17,Jabalpur,Furniture,Table,5,15411,0.1,77055,69349.5
+ORD0471,2025-08-28,Mandsaur,Electronics,Laptop,5,40694,0.0,203470,203470.0
+ORD0472,2025-05-31,Bhopal,Clothing,Jacket,4,1881,0.1,7524,6771.6
+ORD0473,2025-04-24,Jabalpur,Home & Kitchen,Cookware Set,3,3577,0.15,10731,9121.35
+ORD0474,2025-02-22,Jabalpur,Clothing,Jeans,4,512,0.05,2048,1945.6
+ORD0475,2025-11-30,Gwalior,Electronics,Headphones,4,2924,0.0,11696,11696.0
+ORD0476,2025-08-02,Gwalior,Furniture,Sofa,3,17633,0.1,52899,47609.1
+ORD0477,2025-08-03,Mandsaur,Clothing,Jeans,4,4165,0.1,16660,14994.0
+ORD0478,2025-08-06,Mandsaur,Clothing,Jacket,5,3161,0.0,15805,15805.0
+ORD0479,2025-03-23,Bhopal,Electronics,Smartphone,1,12061,0.0,12061,12061.0
+ORD0480,2025-09-23,Bhopal,Home & Kitchen,Mixer,1,3954,0.1,3954,3558.6
+ORD0481,2025-10-22,Jabalpur,Electronics,Headphones,2,7255,0.1,14510,13059.0
+ORD0482,2025-11-18,Mandsaur,Electronics,Headphones,4,17846,0.15,71384,60676.4
+ORD0483,2025-12-18,Mandsaur,Electronics,Smartphone,3,36010,0.0,108030,108030.0
+ORD0484,2025-03-06,Jabalpur,Electronics,Headphones,4,55830,0.15,223320,189822.0
+ORD0485,2025-09-05,Mandsaur,Furniture,Office Chair,2,16874,0.0,33748,33748.0
+ORD0486,2025-01-07,Indore,Home & Kitchen,Cookware Set,1,4696,0.15,4696,3991.6
+ORD0487,2025-02-15,Bhopal,Electronics,Monitor,3,3420,0.0,10260,10260.0
+ORD0488,2025-09-01,Jabalpur,Home & Kitchen,Water Bottle,1,2401,0.05,2401,2280.95
+ORD0489,2025-09-05,Ujjain,Electronics,Headphones,1,30538,0.1,30538,27484.2
+ORD0490,2025-06-17,Indore,Electronics,Headphones,1,27140,0.0,27140,27140.0
+ORD0491,2025-03-10,Jabalpur,Electronics,Headphones,4,55818,0.05,223272,212108.4
+ORD0492,2025-06-10,Jabalpur,Home & Kitchen,Cookware Set,3,4201,0.05,12603,11972.85
+ORD0493,2025-12-24,Indore,Home & Kitchen,Cookware Set,2,6947,0.05,13894,13199.3
+ORD0494,2025-03-14,Gwalior,Clothing,Shoes,3,893,0.0,2679,2679.0
+ORD0495,2025-07-01,Gwalior,Furniture,Bookshelf,1,6688,0.0,6688,6688.0
+ORD0496,2025-08-18,Bhopal,Electronics,Smartphone,3,37085,0.15,111255,94566.75
+ORD0497,2025-12-20,Mandsaur,Home & Kitchen,Water Bottle,2,6535,0.05,13070,12416.5
+ORD0498,2025-12-29,Mandsaur,Home & Kitchen,Bedsheet,2,434,0.0,868,868.0
+ORD0499,2025-08-30,Indore,Home & Kitchen,Water Bottle,4,3374,0.05,13496,12821.2
+ORD0500,2025-01-21,Bhopal,Electronics,Smartphone,5,6603,0.15,33015,28062.75
